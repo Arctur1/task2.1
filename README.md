@@ -7,4 +7,4 @@ NeuroStartUp — динамически развивающийся старта�
 
 ## Логотип
 
-![](C:\Users\rozhn\Documents\programming\GitHub\remote\task1)
+![](\task1\img1.png)
